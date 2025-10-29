@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17474980.svg)](https://doi.org/10.5281/zenodo.17474980)
+
 # Advancing Educational Innovation Through AI-Enhanced Design and Immersive AR Environments
 
 ![AR Expeditions Poster](https://github.com/UF-College-of-Education/AR-Expeditions-AI-Days-2025-poster/blob/main/AI-Days-Poster_AR-Expeditions.png)
